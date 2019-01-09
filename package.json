@@ -1,0 +1,15 @@
+{
+  "name": "number_converter",
+  "version": "1.0.0",
+  "description": "convert numbers into hexadecimal, decimal and octal",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "author": "a3s6h9",
+  "license": "MIT",
+  "homepage": "https://a3s6h9.github.io/number_converter",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}

@@ -1,0 +1,14 @@
+.ui.list>.item>.content {
+  color: red;
+}
+
+.ui.list>.item>.content:hover {
+  color: black;
+  text-decoration: line-through;
+}
+
+.ui>.result {
+  color: rgba(255, 0, 0, 0.63);
+  font-weight: bold;
+  text-align: center;
+}
